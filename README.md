@@ -1,4 +1,4 @@
-# 🛡️ Advanced Anti-Forensics & System Sanitization (Bash)
+خ# 🛡️ Advanced Anti-Forensics & System Sanitization (Bash)
 
 This repository contains a professional Bash script designed for automated system cleaning and anti-forensic measures. It ensures that sensitive data, network logs, and session traces are securely wiped after security operations.
 
@@ -99,16 +99,20 @@ else
     echo -e "${GREEN}[✔] VPN is active. Starting routine cleanup...${NC}"
     perform_full_wipe
 fi
-TO run this tool on your kali lunix system follow these steps
-1. Clone the repository:
-git clone https://github.com/anisdell2010-crypto/AntiForensics-Automation-Tool.git
-cd AntiForensics-Automation-Tool
-2. Give execution permissions:
-chmod +x clear.sh
-run the script with sudo privileges:
-sudo ./clear.sh
 
-#### ✅ Successful Execution in Kali Linux
-Once the script is executed, it secures the network interfaces and wipes system traces as shown below:
 
-![Execution Preview](kali_proof.jpg.png)
+# ---------------------------------------------------------
+# ## 🚀 How to Run
+# 
+# To run this tool on your Kali Linux system, follow these steps:
+# 
+# 1. Clone the repository:
+# git clone https://github.com/anisdell2010-crypto/AntiForensics-Automation-Tool.git
+# cd AntiForensics-Automation-Tool
+#
+# 2. Give execution permissions:
+# chmod +x clear.sh
+#
+# 3. Run the script:
+# sudo ./clear.sh
+# ---------------------------------------------------------
