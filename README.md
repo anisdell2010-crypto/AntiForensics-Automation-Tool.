@@ -112,4 +112,4 @@ sudo ./clear.sh
 Once the script is executed, it secures the network interfaces and wipes system traces as shown below:
 
 ![Execution Preview]
-(kali_proof.jpg)
+(kali_proof.jpg.png)
