@@ -111,4 +111,4 @@ sudo ./clear.sh
 #### ✅ Successful Execution in Kali Linux
 Once the script is executed, it secures the network interfaces and wipes system traces as shown below:
 
-![Execution Preview](kali_proof.jpg.png.)
+![Execution Preview](kali_proof.jpg.png)
