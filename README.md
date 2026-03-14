@@ -1,4 +1,4 @@
-خ# 🛡️ Advanced Anti-Forensics & System Sanitization (Bash)
+🛡️ Advanced Anti-Forensics & System Sanitization (Bash)
 
 This repository contains a professional Bash script designed for automated system cleaning and anti-forensic measures. It ensures that sensitive data, network logs, and session traces are securely wiped after security operations.
 
