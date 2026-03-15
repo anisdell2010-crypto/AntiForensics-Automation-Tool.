@@ -5,7 +5,7 @@ This repository contains a professional Bash script designed for automated syste
 ---
 
 ## 👨‍💻 About the Developer 
-Sendid Abderaouf
+r4ouf_s
 I am Cybersecurity enthusiast and an **ISC2 Candidate** dedicated to building secure and efficient automation tools.
 
 ### 📜 Professional Certifications
